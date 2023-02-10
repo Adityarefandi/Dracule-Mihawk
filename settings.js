@@ -11,9 +11,9 @@ const chalk = require('chalk')
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
 global.ownerNumber = ['6282244877433'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
 global.Rowner = '6282244877433' //Owner Utama
-global.ownerName = 'YTTA' //Ganti Jadi Namamu
-global.packname = 'Y T T A' //Ganti Jadi Nama Botmu
-global.author = 'adit' //Ganti Jadi Namamu
+global.ownerName = '𝒜𝒹𝒾𝓉𝓎𝒶 ℛℯ𝒻𝒶𝓃𝒹𝒾' //Ganti Jadi Namamu
+global.packname = '𝑨 ♡ 𝑴' //Ganti Jadi Nama Botmu
+global.author = '𝓐𝓭𝓲𝓽𝔂𝓪 𝓡𝓮𝓯𝓪𝓷𝓭𝓲' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
 global.webme = 'https://youtube.com/@ditzchn_ofc7835' //Ganti Jadi Bebas Web Sosmed Mu
@@ -24,7 +24,7 @@ global.limitAwal = {
  prem: 'Unlimited',
  free: 70
 }
-global.multiplier = 69 // Semakin Tinggi Nilai nya Semakin Sulit Naik Level
+global.multiplier = 5 // Semakin Tinggi Nilai nya Semakin Sulit Naik Level
 global.limitEnd = 'Limit Kamu Telah Habis Silahkan Buy Di Shop Atau Tunggu Sampai Limit Reset'
 global.fiturOff = '❎ Fitur Tidak Diaktifkan'
 global.fiturError = 'Fitur Sedang Error ❎'
@@ -38,13 +38,13 @@ global.autolevelup = true //Ganti ke false klo gamau ada peningkatan exp user mu
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU 
 global.mess = {
-admin: '*Kamu Bukan Admin!*',
-botAdmin: '*Bot Bukan Admin!*',
-botOwner: '*Kamu Bukan Ownerku!*',
+admin: '*Lu Bukan Admin!*',
+botAdmin: '*Bot Bukan Admin !*',
+botOwner: '*𝐿𝑢 𝑏𝑢𝑘𝑎𝑛 𝑜𝑤𝑛𝑒𝑟 𝑔𝑢𝑎!*',
 group: '*Khusus Group!*',
 private: '*Khusus Private Chat!*',
 wait: '*Tunggu Sebentar.......*',
-done: '*Done!*',
+done: '*𝕯𝖔𝖓𝖊!*',
 prem: '*Khusus User Premium*'
 }
 
