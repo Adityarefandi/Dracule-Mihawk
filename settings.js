@@ -16,7 +16,7 @@ global.packname = 'Y T T A' //Ganti Jadi Nama Botmu
 global.author = 'adit' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
-global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
+global.webme = 'https://youtube.com/@ditzchn_ofc7835' //Ganti Jadi Bebas Web Sosmed Mu
 global.sosmed = 'https://www.instagram.com/_nzrlafndi' //Ganti Jadi Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
