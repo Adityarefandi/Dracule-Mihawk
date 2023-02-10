@@ -17,7 +17,7 @@ global.author = 'adit' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
 global.webme = 'https://youtube.com/@ditzchn_ofc7835' //Ganti Jadi Bebas Web Sosmed Mu
-global.sosmed = 'https://www.instagram.com/_nzrlafndi' //Ganti Jadi Web Sosmed Mu
+global.sosmed = 'https://instagram.com/adityarefandi_p?igshid=YmMyMTA2M2Y=' //Ganti Jadi Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
